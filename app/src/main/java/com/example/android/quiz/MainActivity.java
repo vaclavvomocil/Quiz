@@ -56,6 +56,8 @@ public class MainActivity extends AppCompatActivity {
 
         if (edit.equals("London")) {
             score += 1;
+        } else {
+            //else statement as requiered :-)
         }
 
         if (radioText.equals("Paris")) {
