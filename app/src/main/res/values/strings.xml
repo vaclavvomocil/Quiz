@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="quest1">Question 1: select all cities lying in Canada ?</string>
+    <string name="quest2">Question 2: what is the capital of United Kingdom ?</string>
+    <string name="quest3">Question 3: what is the capital of France ?</string>
+    <string name="quest4">Question 4: what is the capital of Germany ?</string>
+    <string name="quest1Text1">Buenos Aires</string>
+    <string name="quest1Text2">Ottawa</string>
+    <string name="quest1Text3">Toronto</string>
+    <string name="quest3Text1">Paris</string>
+    <string name="quest3Text2">Bordeaux</string>
+    <string name="quest3Text3">Lile</string>
+    <string name="quest4Text1">Dresden</string>
+    <string name="quest4Text2">Bonn</string>
+    <string name="quest4Text3">Berlin</string>
+    <string name="editHint">please enter city name</string>
+    <string name="evaluateButton">Evaluate</string>
+</resources>
